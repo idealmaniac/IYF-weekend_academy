@@ -1,4 +1,45 @@
+<DOCTYPEhtml>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+   content="width=device-width,
+   initial scale=1.0">
+<title>Master Timetable 2024/2025</title>
+<link rel="stylesheet" href="style.CSS">
+</head>
+<body>
+   <div class="timetable-container">
+   <h1>MASTER TIMETABLE FOR 2024/2025 ACADEMIC YEAR</h1>
+   <table>
+<thead>
+     <tr>
+     <th>Day/Time</th>
+     <th>8.00-8.10</th>
+     <th>8.10-8.55</th>
+     <th>9.00-9.45</th>
+     <th>9.45-10.15</th>
+     <th>10.15-11.00</th>
+     <th>11.05-11.50</th>
+     <th>11.55-12.40</th>
+     <th>12.40-1.30</th>
+     <th>1.30-2.15</th>
+     <th>2.20-3.05</th>
+     <th>3.10-3.55</th>
+     <th>3.55-4.00</th>
+ </tr>
+ </head>
+ <tbody>
+ <!-Monday -->
+ <tr> 
+     <td rowspan="5">F</td>
+     <td>Yr.7</td>
+     <td>ICT 2</td>
+     <td>MATH 11</td>
+     <td>ENG 13</td>  
+      
 
+     
 # School Timetable Implementation Guide
 
 ![School Timetable](timetable_photo.jpeg "2024/2025 School Timetable")
